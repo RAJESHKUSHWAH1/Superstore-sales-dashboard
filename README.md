@@ -4,7 +4,9 @@ The goal of this assignment is to assess your ability to clean and transform dat
 visualizations, create an interactive Power BI dashboard, and derive insights that can be used for
 decision-making.
 
-Datasets:
+Datasets:  
+
+Link:--https://github.com/RAJESHKUSHWAH1/Superstore-sales-dashboard/blob/main/Superstore_Sales_Dataset%20(1).xlsx
 
 . Superstore Sales Dataset:
 - Order Details: Order ID, Order Date, Ship Date
