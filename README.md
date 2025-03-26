@@ -1,4 +1,4 @@
-Objective:
+![Capture](https://github.com/user-attachments/assets/0ed4e456-3cfd-4b20-8dc0-8ef61d325b93)![Capture](https://github.com/user-attachments/assets/dc11914b-c280-4551-8008-68a27fb57e37)Objective:
 
 The goal of this assignment is to assess your ability to clean and transform data, build meaningful
 visualizations, create an interactive Power BI dashboard, and derive insights that can be used for
@@ -28,6 +28,14 @@ Process
 4. Add slicers for Date Range, Region, Customer Segment, and Product Category.
 5. Implement drill-through or tooltip features.
 6. Summarize key insights and provide business recommendations.
+
+Dashboard Link:-
+
+  ![image](https://github.com/user-attachments/assets/3f40171f-81dc-4be5-802d-d95a2f27ecf0)
+
+
+
+
 
 
 
