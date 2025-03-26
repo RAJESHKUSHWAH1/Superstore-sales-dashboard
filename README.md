@@ -1,4 +1,4 @@
-![Capture](https://github.com/user-attachments/assets/0ed4e456-3cfd-4b20-8dc0-8ef61d325b93)![Capture](https://github.com/user-attachments/assets/dc11914b-c280-4551-8008-68a27fb57e37)Objective:
+Objective:
 
 The goal of this assignment is to assess your ability to clean and transform data, build meaningful
 visualizations, create an interactive Power BI dashboard, and derive insights that can be used for
@@ -29,9 +29,19 @@ Process
 5. Implement drill-through or tooltip features.
 6. Summarize key insights and provide business recommendations.
 
-Dashboard Link:-
+Dashboard Link:-https://github.com/RAJESHKUSHWAH1/Superstore-sales-dashboard/blob/main/Superstore_Sales_dashboard.pbix
 
   ![image](https://github.com/user-attachments/assets/3f40171f-81dc-4be5-802d-d95a2f27ecf0)
+
+
+
+   Key Insights:
+ ✅ Total Sales: 514K | Total Profit: 92K | Total Quantity: 5K
+ ✅ Month-wise Sales Trends: Track seasonal fluctuations
+ ✅ Profit vs. Discount Analysis: Optimize pricing strategies
+ ✅ State-wise Profit Distribution: Identify high-performing regions
+ ✅ Top & Bottom Product Performance: Make data-driven inventory decisions
+This dashboard enhances business intelligence, helping organizations make smarter, data-backed decisions for improved performance.
 
 
 
